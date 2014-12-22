@@ -1,4 +1,4 @@
-wftapp-website
+WhatTheFood Website
 ==============
 
-WhatTheFood Website
+Website for the WhatTheFood organization.
