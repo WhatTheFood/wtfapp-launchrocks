@@ -1,4 +1,4 @@
-WhatTheFood Website
+WhatTheFood LaunchRocks
 ==============
 
-Website for the WhatTheFood organization.
+LaunchRocks page for the WhatTheFood event.
